@@ -17,11 +17,20 @@ h1 {
   margin-bottom: 1rem;
 }
 
-button {
+.functionButton {
   background-color: green;
   color: white;
   font-weight: bold;
   margin-top: 1.5rem;
   width: 4rem;
+  height: 1.5rem;
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
   height: 1.5rem;
 }
